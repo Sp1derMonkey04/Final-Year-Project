@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Q2237379/Source/GitHub/Final-Year-Project/FinalYeaProject/Content/Camera/BP_CameraManager.uasset",
+				"C:/Users/Q2237379/Source/GitHub/Final-Year-Project/FinalYeaProject/Content/Character/BP_PlayerController.uasset",
+				"C:/Users/Q2237379/Source/GitHub/Final-Year-Project/FinalYeaProject/Content/Camera/BP_Camera.uasset",
+				"C:/Users/Q2237379/Source/GitHub/Final-Year-Project/FinalYeaProject/Content/Character/BP_MainGameMode.uasset",
+				"C:/Users/Q2237379/Source/GitHub/Final-Year-Project/FinalYeaProject/Content/Character/BP_Player.uasset",
+				"C:/Users/Q2237379/Source/GitHub/Final-Year-Project/FinalYeaProject/Content/Character/Inputs/Main/IA_Move.uasset",
+				"C:/Users/Q2237379/Source/GitHub/Final-Year-Project/FinalYeaProject/Content/Character/Inputs/IMC_Main.uasset"
+			]
+		}
+	]
+}

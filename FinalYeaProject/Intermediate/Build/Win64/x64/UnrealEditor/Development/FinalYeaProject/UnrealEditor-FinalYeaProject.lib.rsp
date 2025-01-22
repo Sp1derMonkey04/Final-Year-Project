@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FinalYeaProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Q2237379\Source\GitHub\Final-Year-Project\FinalYeaProject\Intermediate\Build\Win64\x64\FinalYeaProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Q2237379\Source\GitHub\Final-Year-Project\FinalYeaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\FinalYeaProject\FinalYeaProject.cpp.obj"
+"C:\Users\Q2237379\Source\GitHub\Final-Year-Project\FinalYeaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\FinalYeaProject\Default.rc2.res"
+/OUT:"C:\Users\Q2237379\Source\GitHub\Final-Year-Project\FinalYeaProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\FinalYeaProject\UnrealEditor-FinalYeaProject.lib"

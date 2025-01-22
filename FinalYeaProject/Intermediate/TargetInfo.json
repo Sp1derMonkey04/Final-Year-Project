@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FinalYeaProject",
+			"Path": "..\\Source\\FinalYeaProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FinalYeaProjectEditor",
+			"Path": "..\\Source\\FinalYeaProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
